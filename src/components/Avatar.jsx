@@ -1,10 +1,5 @@
-import styles from "./Sidebar.module.css";
+import styles from "./Avatar.module.css";
 
-export function Avatar(props) {
-    return (
-        <img
-        className={styles.avatar}
-        src={props.src}
-      />
-    )
+export default function Avatar(props) {
+  return <img className={styles.avatar} src={props.src} />;
 }
