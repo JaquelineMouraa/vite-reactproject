@@ -1,4 +1,4 @@
-import Avatar from "../components/Avatar";
+import { Avatar } from "../components/Avatar";
 import { Comment } from "./Comment";
 
 import styles from "./Post.module.css";
