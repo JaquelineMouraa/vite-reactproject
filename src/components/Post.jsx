@@ -13,7 +13,7 @@ export function Post() {
         </div>
 
         <time title="11 de Maio às 08:13" dateTime="2022-02-11 08:13:30">
-          Publicado há 1 hora
+          Publicado há 1h
         </time>
       </header>
 
